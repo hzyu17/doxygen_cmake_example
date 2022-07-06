@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/hongzhe/git/test_oxygen/build",
+  "command": "/usr/bin/g++ -g -std=gnu++1z -o CMakeFiles/main.dir/src/test.cpp.o -c /home/hongzhe/git/test_oxygen/src/test.cpp",
+  "file": "/home/hongzhe/git/test_oxygen/src/test.cpp"
+}
+]

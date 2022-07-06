@@ -1,0 +1,5 @@
+/home/hongzhe/git/test_oxygen/build/CMakeFiles/test.dir
+/home/hongzhe/git/test_oxygen/build/CMakeFiles/main.dir
+/home/hongzhe/git/test_oxygen/build/CMakeFiles/doc_doxygen.dir
+/home/hongzhe/git/test_oxygen/build/CMakeFiles/edit_cache.dir
+/home/hongzhe/git/test_oxygen/build/CMakeFiles/rebuild_cache.dir
